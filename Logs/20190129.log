@@ -26,3 +26,8 @@
 0	14:01:46.035	Compiling 'PipeClient'
 0	14:01:46.035	Compiling 'PipeClientPure'
 0	14:01:49.097	Compiling 'stdlib'
+0	14:14:34.966	Script HelloWorld USDJPY,M1: loaded successfully
+0	14:14:34.984	HelloWorld USDJPY,M1: initialized
+0	14:14:34.984	HelloWorld USDJPY,M1: Alert: Hello World
+0	14:14:34.984	HelloWorld USDJPY,M1: uninit reason 0
+0	14:14:34.988	Script HelloWorld USDJPY,M1: removed
